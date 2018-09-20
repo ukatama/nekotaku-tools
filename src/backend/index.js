@@ -1,6 +1,8 @@
+import FirebaseBackend from './FirebaseBackend';
 import MongoDBBackend from './MongoDBBackend';
 
 const BackendTable = {
+  firebase: FirebaseBackend,
   mongodb: MongoDBBackend,
 };
 

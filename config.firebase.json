@@ -1,0 +1,5 @@
+{
+  "backend": "firebase",
+  "serviceAccountKey": "path/to/serviceAccountKey",
+  "databaseURL": "https://your.database.url"
+}

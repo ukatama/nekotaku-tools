@@ -7,7 +7,7 @@ export default class Backend {
   async close() {
   }
 
-  async listRoom() {
+  async listRooms() {
     throw new Error('Abstract method called');
   }
 
