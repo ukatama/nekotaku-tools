@@ -11,7 +11,7 @@ Administration tool for nekotaku
 git clone https://github.com/ukatama/nekotaku.git
 cd nekotaku
 npm run build
-cp config.mongodb.json config.json
+cp config.mongodb.json config.json ## or config.firebase.json
 vi config.json
 ```
 
