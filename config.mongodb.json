@@ -1,0 +1,9 @@
+{
+  "backend": "mongodb",
+  "url": "mongodb://localhost:27017",
+  "database": "nekotaku",
+  "mongoOptions": {},
+  "file": {
+    "path": "path/to/nekotaku/data/files"
+  }
+}
